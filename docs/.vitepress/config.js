@@ -1,6 +1,5 @@
 export default {
   title: 'Follot Biz マニュアル',
-  base: '/follot-biz-manual/',
   description: 'Follot Biz の操作ガイド',
   lang: 'ja',
   lastUpdated: true,
