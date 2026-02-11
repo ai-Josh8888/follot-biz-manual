@@ -1,2 +1,2 @@
-# follot-biz-　manual3回目
+# follot-biz-　manual４回目　今回はbaseの反映
 
