@@ -5,13 +5,6 @@ hero:
   name: "Follot Biz マニュアル"
   text: "操作ガイド"
   tagline: 顧客管理機能、チャット、タスク管理など、Follot Biz のすべての機能を網羅した操作ガイドです
-  actions:
-    - theme: brand
-      text: ログイン方法を見る
-      link: /guide/auth
-    - theme: alt
-      text: GitHub で見る
-      link: https://github.com
 
 features:
   - icon: 🔐
